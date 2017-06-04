@@ -14,7 +14,7 @@ By submitting a solution to any of these challenges, you agree to the following:
 
 | Team           |   F1 score |   Previous F1 Score |   Precision |   Previous precision |   Recall |   Previous recall |
 |:---------------|-----------:|--------------------:|------------:|---------------------:|---------:|------------------:|
-| MartinHjelmare |       0.65 |                0.65 |        0.75 |                 0.75 | 0.583333 |          0.583333 |
+| MartinHjelmare |       0.26 |                0.65 |         0.3 |                 0.75 | 0.233333 |          0.583333 |
 
 Data provided by the [Human Protein Atlas](http://proteinatlas.org)
 
