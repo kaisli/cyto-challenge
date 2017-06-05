@@ -1,1 +1,1 @@
-{"MartinHjelmare": {"test": {"precision": 0.3, "recall": 0.2333333333333333, "precision_old": 0.75, "f1_score": 0.26, "recall_old": 0.5833333333333333, "f1_score_old": 0.65}}}
+{"MartinHjelmare": {"test": {"f1_high": 0.65, "recall": 0.2333333333333333, "f1_score": 0.26, "precision": 0.3}}, "CarolinaWahlby": {"2": {"recall": "auto-scoring failed", "f1_score": "auto-scoring failed", "precision": "auto-scoring failed"}}}
