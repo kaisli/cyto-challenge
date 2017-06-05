@@ -12,9 +12,9 @@ By submitting a solution to any of these challenges, you agree to the following:
 
 ## Challenge 2
 
-| Team           | F1 score            | Highest F1 Score   | Precision           | Recall              |
-|:---------------|:--------------------|:-------------------|:--------------------|:--------------------|
-| CarolinaWahlby | auto-scoring failed | N/A                | auto-scoring failed | auto-scoring failed |
+| Team           |   F1 score |   Highest F1 Score |   Precision |   Recall |
+|:---------------|-----------:|-------------------:|------------:|---------:|
+| CarolinaWahlby |      0.112 |              0.112 |       0.113 |    0.111 |
 
 ## Challenge test
 
