@@ -20,7 +20,7 @@ By submitting a solution to any of these challenges, you agree to the following:
 
 | Team           |   F1 score |   Highest F1 Score |   Precision |   Recall |
 |:---------------|-----------:|-------------------:|------------:|---------:|
-| MartinHjelmare |      0.775 |              0.775 |       0.951 |    0.715 |
+| MartinHjelmare |      0.734 |              0.775 |       0.899 |    0.707 |
 
 ## Challenge test
 
