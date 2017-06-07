@@ -1,1 +1,10 @@
-{"MartinHjelmare": {"4": {"precision": 0.8987731627915269, "f1_high": 0.7750659190981487, "f1_score": 0.7344068926433436, "recall": 0.7067726374523106}, "test": {"precision": 0.3, "f1_high": 0.65, "f1_score": 0.26, "recall": 0.2333333333333333}}, "CarolinaWahlby": {"2": {"precision": 0.11312029135212537, "f1_high": 0.11222594220251919, "f1_score": 0.11222594220251919, "recall": 0.11146401106290255}}}
+{
+  "MartinHjelmare": {
+    "test": {
+      "precision": 0.3,
+      "f1_high": 0.65,
+      "f1_score": 0.26,
+      "recall": 0.2333333333333333
+    }
+  }
+}
