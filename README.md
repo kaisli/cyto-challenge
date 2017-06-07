@@ -1,3 +1,10 @@
+# Submission deadline
+
+- The leader board and presentation submissions will close 24hrs prior to presentations (June 13 15:30
+EST).
+- Please note that results submission may need some time, so make your first submission well ahead of the deadline to be on the safe side.
+
+
 # Disclaimer
 
 By submitting a solution to any of these challenges, you agree to the following:
@@ -9,18 +16,6 @@ By submitting a solution to any of these challenges, you agree to the following:
 
 
 # Leaderboard
-
-## Challenge 2
-
-| Team           |   F1 score |   Highest F1 Score |   Precision |   Recall |
-|:---------------|-----------:|-------------------:|------------:|---------:|
-| CarolinaWahlby |      0.112 |              0.112 |       0.113 |    0.111 |
-
-## Challenge 4
-
-| Team           |   F1 score |   Highest F1 Score |   Precision |   Recall |
-|:---------------|-----------:|-------------------:|------------:|---------:|
-| MartinHjelmare |      0.734 |              0.775 |       0.899 |    0.707 |
 
 ## Challenge test
 
