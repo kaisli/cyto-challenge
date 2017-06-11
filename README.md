@@ -17,6 +17,18 @@ By submitting a solution to any of these challenges, you agree to the following:
 
 # Leaderboard
 
+## Challenge 2
+
+| Team   |   F1 score |   Highest F1 Score |   Precision |   Recall |
+|:-------|-----------:|-------------------:|------------:|---------:|
+| Dapid  |       0.21 |               0.21 |       0.305 |    0.511 |
+
+## Challenge 3
+
+| Team   | F1 score            | Highest F1 Score   | Precision           | Recall              |
+|:-------|:--------------------|:-------------------|:--------------------|:--------------------|
+| Dapid  | auto-scoring failed | N/A                | auto-scoring failed | auto-scoring failed |
+
 ## Challenge test
 
 | Team           |   F1 score |   Highest F1 Score |   Precision |   Recall |
