@@ -25,6 +25,8 @@ By submitting a solution to any of these challenges, you agree to the following:
 
 ## Challenge 3
 
+There is a problem with the uploaded image test set for challenge 3. We are working on a fix.
+
 | Team   | F1 score            | Highest F1 Score   | Precision           | Recall              |
 |:-------|:--------------------|:-------------------|:--------------------|:--------------------|
 | Dapid  | auto-scoring failed | N/A                | auto-scoring failed | auto-scoring failed |
