@@ -19,18 +19,19 @@ By submitting a solution to any of these challenges, you agree to the following:
 
 ## Challenge 2
 
-| Team     |   F1 score |   Highest F1 Score |   Precision |   Recall |
-|:---------|-----------:|-------------------:|------------:|---------:|
-| pqiu     |      0.479 |              0.479 |       0.563 |    0.446 |
-| jdkangas |      0.367 |              0.367 |       0.651 |    0.302 |
-| Dapid    |      0.21  |              0.21  |       0.305 |    0.511 |
+| Team     | F1 score            | Highest F1 Score   | Precision           | Recall              |
+|:---------|:--------------------|:-------------------|:--------------------|:--------------------|
+| kaisli   | auto-scoring failed | N/A                | auto-scoring failed | auto-scoring failed |
+| pqiu     | 0.479               | 0.479              | 0.563               | 0.446               |
+| jdkangas | 0.367               | 0.367              | 0.651               | 0.302               |
+| Dapid    | 0.210               | 0.210              | 0.305               | 0.511               |
 
 ## Challenge 3
 
 | Team     | F1 score            | Highest F1 Score   | Precision           | Recall              |
 |:---------|:--------------------|:-------------------|:--------------------|:--------------------|
-| jdkangas | auto-scoring failed | N/A                | auto-scoring failed | auto-scoring failed |
 | Dapid    | auto-scoring failed | N/A                | auto-scoring failed | auto-scoring failed |
+| jdkangas | auto-scoring failed | N/A                | auto-scoring failed | auto-scoring failed |
 | pqiu     | 0.343               | 0.343              | 0.372               | 0.451               |
 
 ## Challenge test
